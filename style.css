@@ -23,6 +23,7 @@ a:hover{
     border: 1px solid;
 }
 a:focus{
+    color: white;
     background-color: red;
     border: 1px solid red;
 }
