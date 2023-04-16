@@ -13,13 +13,18 @@ body{
 a{
     color: orangered;
     text-decoration: none;
-    border: 1px solid;
+    border: 1px solid transparent;
     padding: 8px 16px;
     transition: color 150ms linear 0s;
     margin-bottom: 8px;
 }
 a:hover{
     color: orange;
+    border: 1px solid;
+}
+a:focus{
+    background-color: red;
+    border: 1px solid red;
 }
 #codeFrame{
     position: fixed;
