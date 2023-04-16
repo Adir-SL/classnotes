@@ -16,6 +16,7 @@ a{
     border: 1px solid;
     padding: 8px 16px;
     transition: color 150ms linear 0s;
+    margin-bottom: 8px;
 }
 a:hover{
     color: orange;
