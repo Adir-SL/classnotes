@@ -4,6 +4,12 @@ body{
     text-align: center;
     font-family: sans-serif;
 }
+.menuFlex{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    height: 100%;
+}
 a{
     color: orangered;
     text-decoration: none;
