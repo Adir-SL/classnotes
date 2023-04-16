@@ -27,4 +27,6 @@ a:hover{
     top: 0;
     width: calc(100% - 200px);
     height: 100%;
+    border: none;
+    background-color: lightgray;
 }
