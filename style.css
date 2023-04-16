@@ -15,7 +15,7 @@ a{
     text-decoration: none;
     border: 1px solid transparent;
     padding: 8px 16px;
-    transition: color 150ms linear 0s;
+    transition: all 150ms linear 0s;
     margin-bottom: 8px;
 }
 a:hover{
