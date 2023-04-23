@@ -19,6 +19,7 @@ a{
     text-decoration: none;
     border: 1px solid transparent;
     padding: 8px 16px;
+    width: calc(180px - 32px);
     transition: all 150ms linear 0s;
     margin-bottom: 8px;
 }
