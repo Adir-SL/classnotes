@@ -7,7 +7,6 @@ body{
 .menuFlex{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
     width: 180px;
     height: 100%;
 }
